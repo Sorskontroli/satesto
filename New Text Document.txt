@@ -1,9 +1,5 @@
 some changes
 
-<<<<<<< HEAD
-changed2 some changes
-=======
 changed some changes
 
 add branch 1
->>>>>>> 17c1efa375bf5de4209be285bc07f65fee933f7e
