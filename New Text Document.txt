@@ -1,3 +1,7 @@
 some changes
 
+<<<<<<< HEAD
 changed2 some chang
+=======
+changed some changes
+>>>>>>> origin/new-branch
